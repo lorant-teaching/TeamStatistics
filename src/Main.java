@@ -55,6 +55,7 @@ public class Main {
                 System.out.println("Games " + team.getCountMatch());
                 System.out.println("Won " + team.getWonMatches());
                 System.out.println("Lost " + team.getLostMatches());
+                break;
             }
         }
 
